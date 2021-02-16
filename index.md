@@ -1,15 +1,10 @@
 layout: page
 title: "Family tree"
 
-# My family tree1
+[My family tree](https://ancestry.gordonrudman.com/FamilyTree-Page-1.svg)
 
-## My family tree2
+## Maps
 
-![Image](https://ancestry.gordonrudman.com/FamilyTree-Page-1.svg)
-
-
-### Maps
-
-### Evidence
+## Evidence
 
 
