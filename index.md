@@ -1,3 +1,6 @@
+layout: page
+title: "Family tree"
+
 # My family tree1
 
 ## My family tree2
